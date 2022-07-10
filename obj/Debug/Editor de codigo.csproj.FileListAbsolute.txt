@@ -9,3 +9,14 @@ C:\Users\Carmen Isabella\Downloads\Olympus-Text-master\Editor de codigo\obj\Debu
 C:\Users\Carmen Isabella\Downloads\Olympus-Text-master\Editor de codigo\obj\Debug\Editor de codigo.csproj.CoreCompileInputs.cache
 C:\Users\Carmen Isabella\Downloads\Olympus-Text-master\Editor de codigo\obj\Debug\Editor de codigo.exe
 C:\Users\Carmen Isabella\Downloads\Olympus-Text-master\Editor de codigo\obj\Debug\Editor de codigo.pdb
+C:\Users\Carmen Isabella\Downloads\DCU_Edit\Olympus-Text-master\Editor de codigo\bin\Debug\Editor de codigo.exe.config
+C:\Users\Carmen Isabella\Downloads\DCU_Edit\Olympus-Text-master\Editor de codigo\bin\Debug\Editor de codigo.exe
+C:\Users\Carmen Isabella\Downloads\DCU_Edit\Olympus-Text-master\Editor de codigo\bin\Debug\Editor de codigo.pdb
+C:\Users\Carmen Isabella\Downloads\DCU_Edit\Olympus-Text-master\Editor de codigo\obj\Debug\Editor de codigo.csproj.AssemblyReference.cache
+C:\Users\Carmen Isabella\Downloads\DCU_Edit\Olympus-Text-master\Editor de codigo\obj\Debug\Editor de codigo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Carmen Isabella\Downloads\DCU_Edit\Olympus-Text-master\Editor de codigo\obj\Debug\Editor_de_codigo.Form1.resources
+C:\Users\Carmen Isabella\Downloads\DCU_Edit\Olympus-Text-master\Editor de codigo\obj\Debug\Editor_de_codigo.Properties.Resources.resources
+C:\Users\Carmen Isabella\Downloads\DCU_Edit\Olympus-Text-master\Editor de codigo\obj\Debug\Editor de codigo.csproj.GenerateResource.cache
+C:\Users\Carmen Isabella\Downloads\DCU_Edit\Olympus-Text-master\Editor de codigo\obj\Debug\Editor de codigo.csproj.CoreCompileInputs.cache
+C:\Users\Carmen Isabella\Downloads\DCU_Edit\Olympus-Text-master\Editor de codigo\obj\Debug\Editor de codigo.exe
+C:\Users\Carmen Isabella\Downloads\DCU_Edit\Olympus-Text-master\Editor de codigo\obj\Debug\Editor de codigo.pdb
